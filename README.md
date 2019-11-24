@@ -2,10 +2,6 @@
 
 Python script for generating LUTs of different sizes. It supports both Unreal style LUT (top to bottom) and the Unity style (bottom to top).
 
-Unity: ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png)
-
-Unreal: ![strip 256x16](samples/unreal/lut_strip_16_256x16.png)
-
 ## Prerequisites
 
 The script uses `cv2` and `numpy`, which can be installed using `pip`.
@@ -35,7 +31,11 @@ python lut-generator.py --strip 32 output.png
 
 ## Samples
 
-Unity style layout
+| Unreal | Unity |
+| :---: | :---: |
+| ![strip 256x16](samples/unreal/lut_strip_16_256x16.png) | ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png) |
+
+### Unity style layout
 
 ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png)
 
@@ -47,7 +47,7 @@ Unity style layout
 - [square 4096x4096](samples/unity/lut_square_256_4096x4096.png)
 
 
-Unreal style layout
+### Unreal style layout
 
 ![strip 256x16](samples/unreal/lut_strip_16_256x16.png)
 
