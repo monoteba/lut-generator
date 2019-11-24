@@ -2,6 +2,8 @@
 
 Python script for generating LUTs of different sizes. It supports both Unreal Engine style LUT (top to bottom) and the Unity style (bottom to top).
 
+Modified from a gist by [Koki Ibukuro](https://gist.github.com/asus4).
+
 ## Prerequisites
 
 The script uses `cv2` and `numpy`, which can be installed using `pip`.
