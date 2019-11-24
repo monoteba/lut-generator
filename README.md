@@ -6,14 +6,16 @@ Based on a [GitHub gist](https://gist.github.com/asus4/09b1f5403c63ceab5ae34710c
 
 ## Prerequisites
 
-The script uses *Python 2.7*, *cv2* and *numpy*, which can be installed using *pip*.
+The script uses *Python 2.7*, *cv2* and *numpy*, which can be installed using *pip* (though perhaps not the recommended way, but it is easy).
 
 ```bash
 pip install numpy
 pip install opencv-python
 ```
 
-More information about OpenCV-Python can be found here: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html
+Information about [pip version of numpy](https://pypi.org/project/numpy/)
+
+Information about [pip version of OpenCV-Python](https://pypi.org/project/opencv-python/)
 
 ## Usage
 
