@@ -34,10 +34,9 @@ python lut-generator.py --strip 32 output.png
 | Unreal | Unity |
 | :---: | :---: |
 | ![strip 256x16](samples/unreal/lut_strip_16_256x16.png) | ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png) |
+| ![strip 1024x32](samples/unreal/lut_strip_32_1024x32.png) | ![strip 1024x32](samples/unity/lut_strip_32_1024x32.png) |
 
 ### Unity style layout
-
-![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png)
 
 - [strip 256x16](samples/unity/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unity/lut_strip_32_1024x32.png)
@@ -48,8 +47,6 @@ python lut-generator.py --strip 32 output.png
 
 
 ### Unreal style layout
-
-![strip 256x16](samples/unreal/lut_strip_16_256x16.png)
 
 - [strip 256x16](samples/unreal/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unreal/lut_strip_32_1024x32.png)
