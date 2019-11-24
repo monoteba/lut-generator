@@ -1,17 +1,19 @@
-# LUT Texture Generator
+# LUT Table Texture Generator
 
-Python script for generating neutral LUTs of different sizes. It supports both Unreal Engine style LUT (top down) and the Unity style LUT (bottom up).
+Python script for generating neutral LUT tables of different sizes. It supports both Unreal Engine style LUT (top down) and the Unity style LUT (bottom up).
 
 Based on a [GitHub gist](https://gist.github.com/asus4/09b1f5403c63ceab5ae34710cbe2809e) by [Koki Ibukuro](https://gist.github.com/asus4).
 
 ## Prerequisites
 
-The script uses `cv2` and `numpy`, which can be installed using `pip`.
+The script uses *Python 2.7*, *cv2* and *numpy*, which can be installed using *pip*.
 
 ```bash
-pip install opencv-python
 pip install numpy
+pip install opencv-python
 ```
+
+More information about OpenCV-Python can be found here: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html
 
 ## Usage
 
