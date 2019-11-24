@@ -81,16 +81,11 @@ def make_image_square(samples=16, flipy=False):
         end = samples * root
         step = 1
     
-
-    # row, repeat red every 64
-    # col, repeat green every 64
-    # incr blue 1 for every 64
-
     # cv2 uses bgr instead of rgb
     p = 0.0
-    for y in range(start, end, step):  # column
+    for y in range(start, end, step):
         rows = []
-        for x in range(0, samples * root):  # row
+        for x in range(0, samples * root):
             ri = (x % samples)
             gi = (y % samples)
             bi = int(y / samples * root) + int((x / samples) % root)
