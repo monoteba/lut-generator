@@ -13,11 +13,9 @@ pip install numpy
 pip install opencv-python
 ```
 
-Information about [installing pip](https://pip.pypa.io/en/stable/installing/)
-
-Information about [pip version of numpy](https://pypi.org/project/numpy/)
-
-Information about [pip version of OpenCV-Python](https://pypi.org/project/opencv-python/)
+- [Installing pip](https://pip.pypa.io/en/stable/installing/)
+- [pip version of numpy](https://pypi.org/project/numpy/)
+- [pip version of OpenCV-Python](https://pypi.org/project/opencv-python/)
 
 ## Usage
 
