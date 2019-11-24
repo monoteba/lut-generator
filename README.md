@@ -1,6 +1,6 @@
 # LUT Texture Generator
 
-Python script for generating LUTs of different sizes. It supports both Unreal style LUT (top to bottom) and the Unity style (bottom to top).
+Python script for generating LUTs of different sizes. It supports both Unreal Engine style LUT (top to bottom) and the Unity style (bottom to top).
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ python lut-generator.py --strip 32 output.png
 | 256x16 | ![strip 256x16](samples/unreal/lut_strip_16_256x16.png) | ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png) |
 | 1024x32 | ![strip 1024x32](samples/unreal/lut_strip_32_1024x32.png) | ![strip 1024x32](samples/unity/lut_strip_32_1024x32.png) |
 
-### Unity style layouts (vertically flipped)
+### Unity Style Layouts
 
 - [strip 256x16](samples/unity/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unity/lut_strip_32_1024x32.png)
@@ -46,7 +46,7 @@ python lut-generator.py --strip 32 output.png
 - [square 4096x4096](samples/unity/lut_square_256_4096x4096.png)
 
 
-### Unreal style layouts (not flipped)
+### Unreal Engine Style Layouts
 
 - [strip 256x16](samples/unreal/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unreal/lut_strip_32_1024x32.png)
