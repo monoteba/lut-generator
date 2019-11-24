@@ -61,7 +61,7 @@ def make_image_square(samples=16, flipy=False):
     :rtype: list of list of [int, int, int]
     """
     s = float(samples)
-    root = int(math.sqrt(samples))  # should be 
+    root = int(round(math.sqrt(samples)))
     mult = 255.0 / (s - 1)
 
     image = []
