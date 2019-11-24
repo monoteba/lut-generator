@@ -36,7 +36,7 @@ The script can generate either a square layout or a long strip layout. Include `
 | 256x16 | ![strip 256x16](samples/unreal/lut_strip_16_256x16.png) | ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png) |
 | 1024x32 | ![strip 1024x32](samples/unreal/lut_strip_32_1024x32.png) | ![strip 1024x32](samples/unity/lut_strip_32_1024x32.png) |
 
-### Unity Style Layouts
+**Unity Style Layouts:**
 
 - [strip 256x16](samples/unity/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unity/lut_strip_32_1024x32.png)
@@ -46,7 +46,7 @@ The script can generate either a square layout or a long strip layout. Include `
 - [square 4096x4096](samples/unity/lut_square_256_4096x4096.png)
 
 
-### Unreal Engine Style Layouts
+**Unreal Engine Style Layouts:**
 
 - [strip 256x16](samples/unreal/lut_strip_16_256x16.png)
 - [strip 1024x32](samples/unreal/lut_strip_32_1024x32.png)
