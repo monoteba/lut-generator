@@ -38,22 +38,22 @@ The script can generate either a square layout or a long strip layout. Include `
 
 **Unity Style Layouts:**
 
-- [strip 256x16](samples/unity/lut_strip_16_256x16.png)
-- [strip 1024x32](samples/unity/lut_strip_32_1024x32.png)
-- [strip 4096x64](samples/unity/lut_strip_64_4096x64.png)
-- [square 64x64](samples/unity/lut_square_16_64x64.png)
-- [square 512x512](samples/unity/lut_square_64_512x512.png)
-- [square 4096x4096](samples/unity/lut_square_256_4096x4096.png)
+- [Strip 256x16](samples/unity/lut_strip_16_256x16.png)
+- [Strip 1024x32](samples/unity/lut_strip_32_1024x32.png)
+- [Strip 4096x64](samples/unity/lut_strip_64_4096x64.png)
+- [Square 64x64](samples/unity/lut_square_16_64x64.png)
+- [Square 512x512](samples/unity/lut_square_64_512x512.png)
+- [Square 4096x4096](samples/unity/lut_square_256_4096x4096.png)
 
 
 **Unreal Engine Style Layouts:**
 
-- [strip 256x16](samples/unreal/lut_strip_16_256x16.png)
-- [strip 1024x32](samples/unreal/lut_strip_32_1024x32.png)
-- [strip 4096x64](samples/unreal/lut_strip_64_4096x64.png)
-- [square 64x64](samples/unreal/lut_square_16_64x64.png)
-- [square 512x512](samples/unreal/lut_square_64_512x512.png)
-- [square 4096x4096](samples/unreal/lut_square_256_4096x4096.png)
+- [Strip 256x16](samples/unreal/lut_strip_16_256x16.png)
+- [Strip 1024x32](samples/unreal/lut_strip_32_1024x32.png)
+- [Strip 4096x64](samples/unreal/lut_strip_64_4096x64.png)
+- [Square 64x64](samples/unreal/lut_square_16_64x64.png)
+- [Square 512x512](samples/unreal/lut_square_64_512x512.png)
+- [Square 4096x4096](samples/unreal/lut_square_256_4096x4096.png)
 
 ## License
 
