@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: UTF-8
 
-# install cv2 with 'pip install opencv-python'
-# install numpy with 'pip install numpy' or 'pip install scipy'
-
 import argparse
 import math
 import sys
@@ -14,7 +11,7 @@ import numpy as np
 
 def make_image_strip(samples=16, flipy=False):
     """
-    Creates the array containing the image data.
+    Creates a list containing the image data in a strip format.
 
     :param samples: The number of samples, should be 16, 32 or 64
     :type samples: int
@@ -57,7 +54,7 @@ def make_image_strip(samples=16, flipy=False):
 
 def make_image_square(samples=16, flipy=False):
     """
-    Creates the array containing the image data.
+    Creates a list containing the image data in a square format.
 
     :param samples: The number of samples, should be 16, 64 or 256
     :type samples: int
@@ -162,7 +159,3 @@ if __name__ == '__main__':
             write_image(args.path, image)
         else:
             sys.exit('Unsupported size: use 16, 64 or 256')
-
-
-
-
