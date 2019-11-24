@@ -6,7 +6,7 @@ Based on a [GitHub gist](https://gist.github.com/asus4/09b1f5403c63ceab5ae34710c
 
 ## Prerequisites
 
-The script uses *Python 2.7*, *OpenCV-Python* and *NumPy*, which can be installed using `pip` (though perhaps not the recommended way, but it is easy).
+The script uses **Python 2.7**, **OpenCV-Python** and **NumPy**, which can be installed using `pip` (though perhaps not the recommended way, but it is easy).
 
 ```bash
 pip install numpy
