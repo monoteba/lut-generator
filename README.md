@@ -33,7 +33,7 @@ python lut-generator.py --strip 32 output.png
 
 ## Samples
 
-| Size | Unreal | Unity |
+| Size | Unreal Engine | Unity |
 | :--- | --- | --- |
 | 256x16 | ![strip 256x16](samples/unreal/lut_strip_16_256x16.png) | ![lut_strip_16_256x16](samples/unity/lut_strip_16_256x16.png) |
 | 1024x32 | ![strip 1024x32](samples/unreal/lut_strip_32_1024x32.png) | ![strip 1024x32](samples/unity/lut_strip_32_1024x32.png) |
